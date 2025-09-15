@@ -6,13 +6,17 @@
 	  -webkit-tap-highlight-color: transparent;
 	}
 
-	body {
+
+		body {
+		background-color: #000;
 	  font-family: 'Signika Negative', sans-serif;
 	  background: url('https://www.dropbox.com/scl/fi/tlnt8m68hfm147c17shve/IMG_20250719_084444.jpg?rlkey=gq62j2fpjmz6z0zdj2wqbfktj&raw=1') no-repeat center center fixed;
 	  background-size: cover;
 	  overflow-x: hidden;
 	  color: #fff;
 	}
+
+
 
 	.music-btn {
 	  position: fixed;
@@ -98,7 +102,7 @@
 	}
 
     .imgbai {
-        width: 40%;
+        width: 60%;
         height: auto;      
           border-radius: 6px;
     }
